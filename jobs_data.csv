@@ -1,0 +1,31 @@
+Job Role,Skills,Domain
+Data Scientist,"python machine learning ml deep learning statistics data analysis pandas numpy scikit-learn sql visualization",IT
+Data Analyst,"python sql excel power bi tableau data visualization statistics data cleaning reporting",IT
+AI Engineer,"python deep learning neural networks tensorflow pytorch computer vision nlp artificial intelligence ai",IT
+Machine Learning Engineer,"python machine learning ml model deployment feature engineering scikit-learn ai",IT
+Web Developer,"html css javascript react nodejs express frontend backend web development",IT
+Software Engineer,"java python c++ data structures algorithms problem solving oops programming",IT
+Software Tester,"manual testing automation testing selenium debugging qa software testing",IT
+Cybersecurity Analyst,"network security cryptography ethical hacking penetration testing cyber security",IT
+DevOps Engineer,"aws docker kubernetes ci cd cloud infrastructure automation devops",IT
+Business Analyst,"excel sql communication business analysis problem solving data interpretation reporting",Business
+Marketing Manager,"digital marketing seo sem branding communication content marketing analytics",Business
+HR Manager,"recruitment talent acquisition communication management leadership hr policies",Business
+Financial Analyst,"finance accounting excel financial modeling data analysis forecasting",Business
+Sales Manager,"sales negotiation communication customer relationship management crm business strategy",Business
+Entrepreneur,"business strategy leadership innovation startup management problem solving",Business
+Graphic Designer,"photoshop illustrator figma ui ux design creativity visual design",Creative
+UI UX Designer,"figma wireframing prototyping user research usability design thinking ui ux",Creative
+Content Creator,"content writing blogging social media creativity video editing storytelling",Creative
+Video Editor,"video editing premiere pro after effects storytelling editing techniques",Creative
+Journalist,"writing reporting communication news media research investigation journalism",Creative
+Teacher,"teaching communication subject knowledge classroom management education pedagogy",Education
+Professor,"research teaching academic writing subject expertise higher education",Education
+Doctor,"medical diagnosis patient care surgery healthcare medicine clinical knowledge",Healthcare
+Nurse,"patient care medical assistance healthcare communication nursing",Healthcare
+Pharmacist,"medicine drugs healthcare pharmacy knowledge dispensing medication",Healthcare
+Mechanical Engineer,"mechanical design cad solidworks thermodynamics manufacturing engineering",Core
+Civil Engineer,"construction structural engineering planning autocad site management",Core
+Electrical Engineer,"circuits electronics power systems control systems electrical design",Core
+Electronics Engineer,"embedded systems microcontrollers vlsi electronics communication systems",Core
+Hotel Manager,"hospitality management customer service operations hotel administration",Service
